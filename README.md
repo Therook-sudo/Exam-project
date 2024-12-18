@@ -38,7 +38,7 @@ This repository contains the documentation and setup files for deploying a Linux
    - opened port 443 for HTTPS traffic into the DNS of the instance 
 
 ## Screenshot
-![Landing Page Screenshot](screenshot.png)
+![Landing Page Screenshot](Screenshot.png)
 
 ##  HTTPS Configuration
 - Installed Certbot for SSL certificates.
